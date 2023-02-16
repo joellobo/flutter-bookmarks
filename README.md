@@ -17,7 +17,13 @@ English\
 [HeyFlutter](https://www.youtube.com/@HeyFlutter)\
 [Flutter Warsaw](https://www.youtube.com/@FlutterWarsaw)\
 [Fluttering](https://www.youtube.com/@fluttering4032)\
-[Rohit Semriwal](https://www.youtube.com/@RohitSemriwal)
+[Rohit Semriwal](https://www.youtube.com/@RohitSemriwal)\
+[Flutterly](https://www.youtube.com/@Flutterly)\
+[Creative Bracket • Dart and Flutter Tutorials](https://www.youtube.com/@CreativeBracket)\
+[Flutter Guys](https://www.youtube.com/@flutterguys)\
+[Rabee Omran](https://www.youtube.com/@RabeeOmran)\
+[Reso Coder](https://www.youtube.com/@ResoCoder)\
+[AJ Flutter Tutorials](https://www.youtube.com/@AJFlutterTutorials)
 
 Portuguese\
 [Prof. Diego Antunes](https://www.youtube.com/@drantunes)\
