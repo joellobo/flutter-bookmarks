@@ -16,7 +16,8 @@ English\
 [filiphracek](https://www.youtube.com/@filiphracek)\
 [HeyFlutter](https://www.youtube.com/@HeyFlutter)\
 [Flutter Warsaw](https://www.youtube.com/@FlutterWarsaw)\
-[Fluttering](https://www.youtube.com/@fluttering4032)
+[Fluttering](https://www.youtube.com/@fluttering4032)\
+[Rohit Semriwal](https://www.youtube.com/@RohitSemriwal)
 
 Portuguese\
 [Prof. Diego Antunes](https://www.youtube.com/@drantunes)\
@@ -30,7 +31,8 @@ Portuguese\
 [Gabul DEV](https://www.youtube.com/@GabulDEV)\
 [Leticia Baleiro](https://www.youtube.com/channel/UChRdRcqQbtdSe6MgAWcnRCQ)\
 [Paulo Oliveira](https://www.youtube.com/@pauloCosteira)\
-[Gustavo Silva](https://www.youtube.com/@user-fm4vm3cn1p)
+[Gustavo Silva](https://www.youtube.com/@user-fm4vm3cn1p)\
+[Renato Mota](https://www.youtube.com/@RenatoMotaDev)
 
 Spanish\
 [diegoveloper](https://www.youtube.com/@diegoveloper)\
