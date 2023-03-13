@@ -24,7 +24,8 @@ English\
 [Rabee Omran](https://www.youtube.com/@RabeeOmran)\
 [Reso Coder](https://www.youtube.com/@ResoCoder)\
 [Developer Sam](https://www.youtube.com/@developersam7921)\
-[AJ Flutter Tutorials](https://www.youtube.com/@AJFlutterTutorials)
+[AJ Flutter Tutorials](https://www.youtube.com/@AJFlutterTutorials)\
+[whatsupcoders](https://www.youtube.com/@whatsupcoders)
 
 Portuguese\
 [Prof. Diego Antunes](https://www.youtube.com/@drantunes)\
