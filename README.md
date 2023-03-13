@@ -33,12 +33,12 @@ Portuguese\
 [Joabe Ramone](https://www.youtube.com/@JoabeRamone)\
 [Deivid Willyan | Flutter](https://www.youtube.com/@FlutterCursos)\
 [daves technology](https://www.youtube.com/@davestecnologia)\
-[gabrielinacio9900](https://www.youtube.com/@gabrielinacio9900)\
 [Gabul DEV](https://www.youtube.com/@GabulDEV)\
 [Leticia Baleiro](https://www.youtube.com/channel/UChRdRcqQbtdSe6MgAWcnRCQ)\
 [Paulo Oliveira](https://www.youtube.com/@pauloCosteira)\
 [Gustavo Silva](https://www.youtube.com/@user-fm4vm3cn1p)\
-[Renato Mota](https://www.youtube.com/@RenatoMotaDev)
+[Renato Mota](https://www.youtube.com/@RenatoMotaDev)\
+[gabrielinacio9900](https://www.youtube.com/@gabrielinacio9900)
 
 Spanish\
 [diegoveloper](https://www.youtube.com/@diegoveloper)\
