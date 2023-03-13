@@ -23,6 +23,7 @@ English\
 [Flutter Guys](https://www.youtube.com/@flutterguys)\
 [Rabee Omran](https://www.youtube.com/@RabeeOmran)\
 [Reso Coder](https://www.youtube.com/@ResoCoder)\
+[Developer Sam](https://www.youtube.com/@developersam7921)\
 [AJ Flutter Tutorials](https://www.youtube.com/@AJFlutterTutorials)
 
 Portuguese\
@@ -31,7 +32,6 @@ Portuguese\
 [Bwolf](https://www.youtube.com/@BwolfDev)\
 [Joabe Ramone](https://www.youtube.com/@JoabeRamone)\
 [Deivid Willyan | Flutter](https://www.youtube.com/@FlutterCursos)\
-[Developer Sam](https://www.youtube.com/@developersam7921)\
 [davestecnologia](https://www.youtube.com/@davestecnologia)\
 [gabrielinacio9900](https://www.youtube.com/@gabrielinacio9900)\
 [Gabul DEV](https://www.youtube.com/@GabulDEV)\
