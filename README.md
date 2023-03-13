@@ -38,7 +38,7 @@ Portuguese\
 [Paulo Oliveira](https://www.youtube.com/@pauloCosteira)\
 [Gustavo Silva](https://www.youtube.com/@user-fm4vm3cn1p)\
 [Renato Mota](https://www.youtube.com/@RenatoMotaDev)\
-[gabrielinacio9900](https://www.youtube.com/@gabrielinacio9900)
+[Gabriel Inacio](https://www.youtube.com/@gabrielinacio9900)
 
 Spanish\
 [diegoveloper](https://www.youtube.com/@diegoveloper)\
