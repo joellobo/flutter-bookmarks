@@ -36,7 +36,7 @@ Portuguese\
 [Gabul DEV](https://www.youtube.com/@GabulDEV)\
 [Leticia Baleiro](https://www.youtube.com/channel/UChRdRcqQbtdSe6MgAWcnRCQ)\
 [Paulo Oliveira](https://www.youtube.com/@pauloCosteira)\
-[Gustavo Silva](https://www.youtube.com/@user-fm4vm3cn1p)\
+[Gustavo Silva](https://www.youtube.com/@GustavoSilva-zt4xc)\
 [Renato Mota](https://www.youtube.com/@RenatoMotaDev)\
 [Gabriel Inacio](https://www.youtube.com/@gabrielinacio9900)
 
