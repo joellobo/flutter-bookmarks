@@ -50,5 +50,7 @@ French\
 
 # blog and site
 
+[Flutter](https://flutter.dev/)\
+[pub.dev](https://pub.dev/)\
 [Flutter Bricks](https://www.flutterbricks.com/)\
 [Flutter Awesome](https://flutterawesome.com/)
