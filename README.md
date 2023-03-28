@@ -1,5 +1,19 @@
 # youtube
 
+Portuguese\
+[Prof. Diego Antunes](https://www.youtube.com/@drantunes)\
+[Rodrigo Rahman](https://www.youtube.com/@rodrigorahman)\
+[Bwolf](https://www.youtube.com/@BwolfDev)\
+[Joabe Ramone](https://www.youtube.com/@JoabeRamone)\
+[Deivid Willyan | Flutter](https://www.youtube.com/@FlutterCursos)\
+[daves technology](https://www.youtube.com/@davestecnologia)\
+[Gabul DEV](https://www.youtube.com/@GabulDEV)\
+[Leticia Baleiro](https://www.youtube.com/channel/UChRdRcqQbtdSe6MgAWcnRCQ)\
+[Paulo Oliveira](https://www.youtube.com/@pauloCosteira)\
+[Gustavo Silva](https://www.youtube.com/@GustavoSilva-zt4xc)\
+[Renato Mota](https://www.youtube.com/@RenatoMotaDev)\
+[Gabriel Inacio](https://www.youtube.com/@gabrielinacio9900)
+
 English\
 [Flutter](https://www.youtube.com/@flutterdev)\
 [The Flutter Way](https://www.youtube.com/@TheFlutterWay)\
@@ -26,20 +40,6 @@ English\
 [Developer Sam](https://www.youtube.com/@developersam7921)\
 [AJ Flutter Tutorials](https://www.youtube.com/@AJFlutterTutorials)\
 [whatsupcoders](https://www.youtube.com/@whatsupcoders)
-
-Portuguese\
-[Prof. Diego Antunes](https://www.youtube.com/@drantunes)\
-[Rodrigo Rahman](https://www.youtube.com/@rodrigorahman)\
-[Bwolf](https://www.youtube.com/@BwolfDev)\
-[Joabe Ramone](https://www.youtube.com/@JoabeRamone)\
-[Deivid Willyan | Flutter](https://www.youtube.com/@FlutterCursos)\
-[daves technology](https://www.youtube.com/@davestecnologia)\
-[Gabul DEV](https://www.youtube.com/@GabulDEV)\
-[Leticia Baleiro](https://www.youtube.com/channel/UChRdRcqQbtdSe6MgAWcnRCQ)\
-[Paulo Oliveira](https://www.youtube.com/@pauloCosteira)\
-[Gustavo Silva](https://www.youtube.com/@GustavoSilva-zt4xc)\
-[Renato Mota](https://www.youtube.com/@RenatoMotaDev)\
-[Gabriel Inacio](https://www.youtube.com/@gabrielinacio9900)
 
 Spanish\
 [diegoveloper](https://www.youtube.com/@diegoveloper)\
