@@ -52,7 +52,8 @@ French\
 
 [Flutter](https://flutter.dev/)\
 [pub.dev](https://pub.dev/)\
-[Flutter Bricks](https://www.flutterbricks.com/)\
-[Flutter Awesome](https://flutterawesome.com/)\
 [Flutter Reedit](https://www.reddit.com/r/FlutterDev/)\
-[Flutter Medium](https://medium.com/flutter)
+[Flutter Medium](https://medium.com/flutter)\
+[Flutter Bricks](https://www.flutterbricks.com/)\
+[Flutter Awesome](https://flutterawesome.com/)
+
