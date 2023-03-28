@@ -49,3 +49,6 @@ French\
 [Dev Café](https://www.youtube.com/@DevCafe)
 
 # blog and site
+
+[Flutter Bricks](https://www.flutterbricks.com/)\
+[Flutter Awesome](https://flutterawesome.com/)
