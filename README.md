@@ -48,6 +48,9 @@ Spanish\
 French\
 [Dev Café](https://www.youtube.com/@DevCafe)
 
+Italian\
+[Fudeo - Corsi su Flutter pratici e in italiano](https://www.youtube.com/@fudeo)
+
 # site, blog
 
 [Flutter](https://flutter.dev/)\
