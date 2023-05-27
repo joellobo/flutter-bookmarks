@@ -39,7 +39,8 @@ English\
 [Reso Coder](https://www.youtube.com/@ResoCoder)\
 [Developer Sam](https://www.youtube.com/@developersam7921)\
 [AJ Flutter Tutorials](https://www.youtube.com/@AJFlutterTutorials)\
-[whatsupcoders](https://www.youtube.com/@whatsupcoders)
+[whatsupcoders](https://www.youtube.com/@whatsupcoders)\
+[Mo Malaka | OfflineProgrammer](https://www.youtube.com/@_Mo_Malaka_)
 
 Spanish\
 [diegoveloper](https://www.youtube.com/@diegoveloper)\
