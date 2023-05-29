@@ -40,7 +40,8 @@ English\
 [Developer Sam](https://www.youtube.com/@developersam7921)\
 [AJ Flutter Tutorials](https://www.youtube.com/@AJFlutterTutorials)\
 [whatsupcoders](https://www.youtube.com/@whatsupcoders)\
-[Mo Malaka | OfflineProgrammer](https://www.youtube.com/@_Mo_Malaka_)
+[Mo Malaka | OfflineProgrammer](https://www.youtube.com/@_Mo_Malaka_)\
+[Flutter Bucket](https://www.youtube.com/@FlutterBucket)
 
 Spanish\
 [diegoveloper](https://www.youtube.com/@diegoveloper)\
