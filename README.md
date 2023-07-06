@@ -41,7 +41,8 @@ English\
 [AJ Flutter Tutorials](https://www.youtube.com/@AJFlutterTutorials)\
 [whatsupcoders](https://www.youtube.com/@whatsupcoders)\
 [Mo Malaka | OfflineProgrammer](https://www.youtube.com/@_Mo_Malaka_)\
-[Flutter Bucket](https://www.youtube.com/@FlutterBucket)
+[Flutter Bucket](https://www.youtube.com/@FlutterBucket)\
+[Trey Codes](https://www.youtube.com/@TreyHope)
 
 Spanish\
 [diegoveloper](https://www.youtube.com/@diegoveloper)\
