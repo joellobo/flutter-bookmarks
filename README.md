@@ -1,7 +1,7 @@
 # youtube
 
 Portuguese\
-[Prof. Diego Antunes](https://www.youtube.com/@drantunes/videos){:target="_blank"}\
+[Prof. Diego Antunes](https://www.youtube.com/@drantunes/videos)\
 [Rodrigo Rahman](https://www.youtube.com/@rodrigorahman/videos)\
 [Bwolf](https://www.youtube.com/@BwolfDev/videos)\
 [Joabe Ramone](https://www.youtube.com/@JoabeRamone/videos)\
