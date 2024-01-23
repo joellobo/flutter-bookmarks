@@ -98,4 +98,6 @@
 [Flutter Medium](https://medium.com/flutter)\
 [Flutter Bricks](https://www.flutterbricks.com/)\
 [Flutter Awesome](https://flutterawesome.com/)
+[Flutter Developer Community](https://www.linkedin.com/groups/10408911/)\
+[Worldwide Flutter - WWF](https://www.linkedin.com/groups/8833665/)\
 
