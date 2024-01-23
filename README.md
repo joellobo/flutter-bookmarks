@@ -80,7 +80,7 @@
 
 [Trey Codes](https://www.youtube.com/@TreyHope/videos) #en
 
-[diegoveloper](https://www.youtube.com/@diegoveloper/videos) #es  #
+[diegoveloper](https://www.youtube.com/@diegoveloper/videos) #es  
 
 [Eliecer Coding](https://www.youtube.com/@EliecerCoding/videos) #es
 
