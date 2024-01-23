@@ -88,6 +88,8 @@
 
 [Fudeo - Corsi su Flutter pratici e in italiano](https://www.youtube.com/@fudeo/videos) #it
 
+[Binärverkehr](https://www.youtube.com/@binaerverkehr/videos) #de
+
 # site, blog
 
 [Flutter](https://flutter.dev/)\
