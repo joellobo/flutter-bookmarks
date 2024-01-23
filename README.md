@@ -1,5 +1,7 @@
 # youtube
 
+[Jacob Moura da Flutterando](https://www.youtube.com/@JacobMoura7/videos) #pt
+
 [Prof. Diego Antunes](https://www.youtube.com/@drantunes/videos) #pt
 
 [Rodrigo Rahman](https://www.youtube.com/@rodrigorahman/videos) #pt 
