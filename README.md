@@ -24,7 +24,9 @@
 
 [Renato Mota](https://www.youtube.com/@RenatoMotaDev/videos) #pt 
 
-[Gabriel Inacio](https://www.youtube.com/@gabrielinacio9900/videos) #pt 
+[Gabriel Inacio](https://www.youtube.com/@gabrielinacio9900/videos) #pt
+
+[Felipe Casseb](https://www.youtube.com/@felipecasseb677/videos) #pt
 
 [Flutter](https://www.youtube.com/@flutterdev/videos) #en 
 
